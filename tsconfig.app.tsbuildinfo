@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/country.tsx","./src/components/countrydetails.tsx","./src/components/countrylist.tsx","./src/contexts/countriescontext.tsx","./src/hooks/usefetch.tsx"],"version":"5.6.3"}
